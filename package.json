@@ -1,0 +1,16 @@
+{
+  "name": "cdx-contracts-dist-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "4.0.0-beta.14",
+    "web3": "0.20.6"
+  }
+}
